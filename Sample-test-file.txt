@@ -3,3 +3,5 @@ This is sample file text.
 submain created on GitHub web
 branch1 & branch2 created as sub branches of submain branch.
 Setting Branch: original/branch1
+
+Setting Branch: original/branch2
